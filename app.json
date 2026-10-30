@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "AgriSmartApp",
+    "slug": "AgriSmartApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "agrismartapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#0D1B3E"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.agrismartapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5a6edb99-04d7-4751-a139-3d59b1096781"
+      }
+    },
+    "owner": "aashikjhgfdsdfghj"
+  }
+}
